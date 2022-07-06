@@ -1,3 +1,5 @@
+VERSION WITH ALL LOCAL THINGS + mp4 ALLOWED
+
 # jQuery File Upload
 
 ## Contents
